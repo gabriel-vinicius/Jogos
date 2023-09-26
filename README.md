@@ -5,7 +5,7 @@ Foi criado uma mecânica de Dash;
 Foi criado respawn quando o player "cai" da plataforma;
 
 Controles:
-Botão esquerdo mouse: atirar 
-Shift: dash
-Espaço: pula
-Teclas: movimentar personagem
+Botão esquerdo mouse: atirar ;
+Shift: dash;
+Espaço: pula;
+Teclas: movimentar personagem;
