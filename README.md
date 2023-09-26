@@ -9,3 +9,8 @@ Botão esquerdo mouse: atirar ;
 Shift: dash;
 Espaço: pula;
 Teclas: movimentar personagem;
+
+Grupo: 
+Gabriel Vinícius de Oliveira
+DANIEL MERIB LISBOA
+CLÉBER LIMBERGER
